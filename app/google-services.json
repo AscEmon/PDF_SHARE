@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "608757347774",
+    "firebase_url": "https://pdf-sharing-64f3d.firebaseio.com",
+    "project_id": "pdf-sharing-64f3d",
+    "storage_bucket": "pdf-sharing-64f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608757347774:android:60b378e7b0f93609",
+        "android_client_info": {
+          "package_name": "com.example.asc_emon.pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608757347774-kj0e1u0duta1pv1umcsll3eqlfjgupiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asc_emon.pdf",
+            "certificate_hash": "041d1f3f22a4974cb3ddd85836a11bf09d28106d"
+          }
+        },
+        {
+          "client_id": "608757347774-8pe3u35cigik8kngfv67l0m9pf6f3802.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcmb0hS-I8S_rPugLEDtIBtCkSctn8j5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608757347774-8pe3u35cigik8kngfv67l0m9pf6f3802.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
